@@ -1,0 +1,52 @@
+a{
+    text-decoration: None;
+}
+
+header{
+    padding: 28px;
+    color: white;
+    background-color: black;
+    font-size: 50px;
+}
+
+.container{
+    align-items: center;
+    font-size: 20px;
+}
+
+.item{
+    margin: 15px;
+    display: block;
+}
+
+.subitem{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.delete_button{
+    margin-left: auto;!important;
+    margin-right: 5px;
+    background-color: #f4442f;
+    border-radius: 5px;
+    color: white;
+}
+
+.add_group{
+    font-size: 20px;
+    display: inline;
+}
+
+#add_button{
+    background-color: #1fba58;
+    color: white;
+    border-radius: 6px;
+    font-size: 25px;
+    height: 30px;
+}
+
+.add_field{
+    border-radius: 7px;
+    height: 30px;
+    font-size: 25px;
+}
